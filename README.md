@@ -36,7 +36,7 @@ It captures student images, trains on them, and marks attendance in a secure and
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/face_recognition_attendence_system.git
+   git clone {PROJECT LINK}
    cd face_recognition_attendence_system
    ```
 
